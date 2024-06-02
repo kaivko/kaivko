@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kaivko
 - 👀 I’m interested in web/game development!
 - 🌱 I’m currently learning html and css!
-- 📫 How to reach me through IG! @kaivko :)
 - 😄 Pronouns: she/her
 
 <!---
